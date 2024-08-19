@@ -1,6 +1,4 @@
-### README for Assembly Code
-
-#### Overview
+### Overview
 This repository contains two assembly programs written for the EMU8086 emulator. Both programs perform basic arithmetic operations and display the result using the DOS interrupt `int 21h`. The programs demonstrate the addition of numbers and the conversion of the result into a human-readable format.
 
 ### Program 1: 16-bit Addition and Display
@@ -126,7 +124,11 @@ This repository contains two assembly programs written for the EMU8086 emulator.
 
 #### Output
 - **Program 1:** Outputs a decimal result of the addition.
+  ![image](https://github.com/user-attachments/assets/7cfec0b1-8f15-4a4b-bee0-b5d727a7654a)
+
 - **Program 2:** Outputs a two-digit hexadecimal result of the addition.
+  ![image](https://github.com/user-attachments/assets/914a229e-15c7-4970-8846-c3fa63932a72)
+
 
 ### Execution
 - To run these programs, load them into the EMU8086 emulator and execute. The results will be displayed in the console.
