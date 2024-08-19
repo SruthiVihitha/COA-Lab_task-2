@@ -127,7 +127,8 @@ This repository contains two assembly programs written for the EMU8086 emulator.
   ![image](https://github.com/user-attachments/assets/914a229e-15c7-4970-8846-c3fa63932a72)
 
 - **Program 2:** Outputs a two-digit hexadecimal result of the addition.
-![image](https://github.com/user-attachments/assets/a28c9d04-194f-48e3-a7e7-a33d11c406f0)
+- ![image](https://github.com/user-attachments/assets/093218b2-268e-45da-a088-ca5429d29844)
+
 
 
 ### Execution
